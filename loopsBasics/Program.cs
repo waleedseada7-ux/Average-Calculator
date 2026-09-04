@@ -22,7 +22,7 @@ do
 }
 while (carrentScore != -1);
 
-int average = sum / counter;
+var average = sum / counter;
 
 Console.WriteLine($"The average is: {average}");
 Console.ReadKey();
